@@ -4,4 +4,5 @@ public class 정수선언하고곱출력 {
         int b = 5;
 
         System.out.print(a + " * " + b + " = " + a*b);
+    }
 }
